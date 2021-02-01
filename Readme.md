@@ -5,3 +5,5 @@ Game Rules
     *When the players reach the end of the the track ,their rank should be displayed according to the time taken by each of the players to reach the end
     *To restart the game there will be a reset button
     
+    https://jasaswini-mohanty.github.io/Marathon-/
+    
